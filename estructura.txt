@@ -7,18 +7,11 @@ mi-crud/
 ├── factories/
 │   └── empleadoFactory.js   (Factory)
 ├── models/
-│   └── empleadoModel.js     (Entidad con Strategy)
+│   └── empleadoModel.js    
 ├── repositories/
 │   └── empleadoRepository.js
 ├── routes/
 │   └── empleadoRoutes.js
-├── services/
-│   └── empleadoService.js
-├── strategies/               (Strategy)
-│   ├── salarioStrategy.js
-│   ├── desarrolladorStrategy.js
-│   ├── vendedorStrategy.js
-│   └── defaultStrategy.js
 ├── views/
 │   ├── layout.ejs
 │   ├── empleados.ejs         (lista con filtros)
